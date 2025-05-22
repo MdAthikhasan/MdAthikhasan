@@ -1,24 +1,25 @@
  
  ![](https://res.cloudinary.com/practicaldev/image/fetch/s--mgVodcWf--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pp4ll13f5onw4gqj8ggl.jpg)
  
-# Hi there! 👋 I'm Athik
+# Hi there! 👋 I'm Athik Hassan
 
-I'm a passionate frontend developer with expertise in React, JavaScript, and CSS. I love crafting beautiful and responsive user interfaces to bring ideas to life.
+I'm a passionate frontend developer with expertise in Next.js, React, JavaScript, TypeScript, and Tailwind Bootstrap. I love crafting super-fast and scalable web applications to bring ideas to life.
 
 ## 🚀 Skills
-
+- **Next.js**: Building super-fast and scalable applications.
 - **React**: Building scalable and efficient React applications.
 - **JavaScript**: Working with modern JavaScript (ES6+).
+- **TypeScript**: Working with TypeScript for keeping data type safe.
 - **CSS**: Creating stylish and responsive designs.
 
 ## 🌐 Contact
 
-- 📱 Phone: +8801824990037
+- 📱 WhhatsApp: +8801824990037
 - ✉️ Email: mdathikhasan136@gmail.com
 
 ## 🌱 Learning
 
-I'm always eager to learn and stay updated with the latest trends in frontend development. Currently, I'm focusing on Next js.
+I'm always eager to learn and stay updated with the latest trends in  development. Currently, I'm focusing on Back-end development.
 
 ## 📫 Let's Connect
 
